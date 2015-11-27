@@ -1,0 +1,11 @@
+{
+    "name": "vhall/weixin-share-php",
+    "description": "vhall packagelist",
+    "authors": [{
+        "name": "vhall_team",
+        "email": "vhall_team@gmail.com"
+    }],
+    "require": {
+        "php": ">=5.5.0",
+    }
+}
