@@ -6,6 +6,6 @@
         "email": "vhall_team@gmail.com"
     }],
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=5.5.0"
     }
 }
