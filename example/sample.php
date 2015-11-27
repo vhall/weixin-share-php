@@ -1,5 +1,5 @@
 <?php
-require_once "jssdk.php";
+require_once "JSSDK.php";
 $jssdk = new JSSDK("yourAppID", "yourAppSecret");
 $signPackage = $jssdk->GetSignPackage();
 ?>
